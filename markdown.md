@@ -2,17 +2,17 @@
 # (Soccer Team Name) Soccer Team 
 ***
 
-(Soccer Team Name) is the local, social soccer team for children. We allow for children to play fun games of soccer as a team.
+(Soccer Team Name) is the local, social soccer team for children. We allow for kids to play fun games of soccer and as a team.
 
 The ______ Soccer Team members include 
-* First Name
-* Second Name 
-* Third Name 
-* Fourth Name 
-* Fifth Name 
-* 6
-* 7
-* 8 
-* 9 
-* 10 
+* One
+* Two 
+* Three 
+* Four
+* Five
+* Six
+* Seven
+* Eight
+* Nine 
+* Ten 
 
