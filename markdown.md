@@ -1,4 +1,4 @@
-![Black Chilli Logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwio2Je2uqHkAhXYinAKHfQaC48QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.blackchilli.co.nz%2F&psig=AOvVaw2tS88QnHULLeLTx4E2UQ40&ust=1566940510586481)
+![Black Chilli Logo](black-chilli-design.png)
 # Black Chilli Designs 
 ***
 
