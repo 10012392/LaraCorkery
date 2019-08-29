@@ -9,11 +9,24 @@ For this assignment my client is Black Chilli Designs, which is a local business
 * __Examples similar to the website__
 * __Key items to include in the site__
 * __Special Requirements the client wants__ 
-* Four
-* Five
-* Six
-* Seven
-* Eight
-* Nine 
-* Ten 
+* __Current web design trends that can be applied to the site__
+
+### Similar Websites 
+* (https://absolutepartyhire.co.nz/) - Absolute Party Hire  
+* (https://bopeventhire.co.nz/) - BOP Event Hire 
+* Another Website (Manufacturing?) 
+
+### Key Items to Include 
+* Images for products and previous projects 
+* Descriptions for the different projects and products (Cost for hire items) 
+* Contact Details 
+* __A Home Page!!__
+
+### Special Requirements 
+* 
+
+## Current Web Design Trends 
+* Minimalistic 
+* Gradients 
+* Bright Colours 
 
