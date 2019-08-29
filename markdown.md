@@ -1,4 +1,4 @@
-![Black Chilli Logo](black-chilli-design.png)
+![Black Chilli Logo](black-chilli-design.PNG)
 # Black Chilli Designs 
 ***
 
