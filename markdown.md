@@ -23,10 +23,25 @@ For this assignment my client is Black Chilli Designs, which is a local business
 * __A Home Page!!__
 
 ### Special Requirements 
-* 
+* For all the website content to be clear and easy to read. 
+* The website needs to be simple to read and also easy navigation 
 
 ## Current Web Design Trends 
 * Minimalistic 
 * Gradients 
 * Bright Colours 
+
+## Specifications 
+Write a specification list for your site. Should be based on your research findins and your dicussions with your client
+
+Things needed for the layout 
+* Images need to be placed on the webstie and clear to see 
+
+## Three High Fidelity Wireframes 
+Based on findings of your research you are to produce three high fidelity wireframes from which your client will select one for the site. The wireframes should give an idea of layout, navigation, colours, font types and sizes and types and sized images used. 
+
+## Product Backlog 
+Create a list of all task required to complete to meet the specifications above. (User Stories) Estimate and allocate the time required for each task. Record this in theformat of your choice and include with your documentation, possible templates to use will be discussed in class. If you are unable to estimate the time of each task, break the task down further. 
+
+
 
