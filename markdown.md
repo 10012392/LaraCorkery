@@ -88,8 +88,8 @@ Test | Scenario | Expected Result | Actual Result | Pass/Fail
 1 | Linked banner works from all pages | Sends user to home page when clicked | Sends user to home page | Pass
 2 | Navigation buttons work | Buttons linked and send user to right pages | Sends user to correct pages as intended | Pass
 3 | When linked image is clicked, sends user to correct page | When clicked sends user to correct page | Sends user to right page | Pass
-4 | User able to find contact information | Use navigation bar or linked home page images to find contact us page | Contact information found by using navigation or home page image links | Pass 
+4 | User able to find contact information | Use navigation bar or linked home page images to find contact us page | Contact Us information found | Pass 
 5 | All images load correctly | Images load at good quality | Images are clear and load correctly | Pass 
-6 | Find about us information | Using navigation or home page links to find about us information | Used navigation or home page links to find about us information | Pass
+6 | Find about us information | Using navigation or home page links to find about us information | About Us information found | Pass
 
 
