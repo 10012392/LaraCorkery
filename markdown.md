@@ -45,13 +45,18 @@ For this assignment my client is Black Chilli Designs, which is a local business
 
 ## Specifications 
 Write a specification list for your site. Should be based on your research findins and your dicussions with your client
-* Functionality - 
-* Design - 
+* Website represents the brand 
+* Shows all services prior to ordering 
+* Functionality - All links to other pages work cohesively
+* Design - All the different webpages share same design 
+* Layout of web pages are easy to navigate 
+* Images and content are good quality 
 
 ***
 
 ## Things needed for the layout 
-* Images need to be placed on the webstie and clear to see 
+* Clear images
+* Layout chosen 
 
 ***
 
