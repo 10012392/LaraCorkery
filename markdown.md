@@ -80,14 +80,14 @@ Based on the second high fidelity wireframe is how the website is going to look 
 
 ## Progess Log 
 Work through your product backlog, noting any major issues as you go. Use a format of your choice to record this.
-Element | Issues | What does it do? | Works | Done 
---- | --- | --- | --- | ---
-Background image | Was changing sizes when backgorund size was set to cover. | Covers part of the background seperating the different colours | Works | Done 
-Image Sizes | Different Image resolutions | Advertise the different products of the website | Works | Done
-Contact Form | No issues | Able to input information in email format to contact the company | Works | Done
-Image Links | No issues | Click some images and get taken to different pages | Works | Done 
-Navigation Links | No issues | Click on the navigation bar that takes the user to the different pages of the website | Works | Done
-Website Responsiveness | Doesn't quite look correct in very small size | Allows the website layout to fit to both smaller and larger screen sizes | Works | Done
+Element | Issues | What does it do? |Done 
+--- | --- | --- | ---
+Background image | Was changing sizes when backgorund size was set to cover. | Covers part of the background seperating the different colours | Done 
+Image Sizes | Different Image resolutions | Advertise the different products of the website | Done
+Contact Form | No issues | Able to input information in email format to contact the company | Done
+Image Links | No issues | Click some images and get taken to different pages | Done 
+Navigation Links | No issues | Click on the navigation bar that takes the user to the different pages of the website | Done
+Website Responsiveness | Doesn't quite look correct in very small size | Allows the website layout to fit to both smaller and larger screen sizes | Done
 
 ***
 
