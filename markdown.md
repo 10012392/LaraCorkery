@@ -70,7 +70,7 @@ These are trends that I have tired to include in the design and layout of the we
 Based on findings of your research you are to produce three high fidelity wireframes from which your client will select one for the site. The wireframes should give an idea of layout, navigation, colours, font types and sizes and types and sized images used. 
 ![First High Fidelity Wireframe](HomePage1.PNG)
 ![Second High Fidelity Wireframe](HomePage2.PNG)
-![Third High Fidelity Wireframe](HomePage2.PNG)
+![Third High Fidelity Wireframe](HomePage3.PNG)
 
 From these high fidelity wireframes I decided to go with the layout and theme of second high fidelity wireframe as the layout works and its simple. 
 
