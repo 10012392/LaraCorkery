@@ -70,29 +70,38 @@ These are trends that I have tired to include in the design and layout of the we
 Based on findings of your research you are to produce three high fidelity wireframes from which your client will select one for the site. The wireframes should give an idea of layout, navigation, colours, font types and sizes and types and sized images used. 
 ![First High Fidelity Wireframe](HomePage1.PNG)
 ![Second High Fidelity Wireframe](HomePage2.PNG)
+![Third High Fidelity Wireframe](HomePage2.PNG)
 
+From these high fidelity wireframes I decided to go with the layout and theme of second high fidelity wireframe as the layout works and its simple. 
 
-***
-
-## Product Backlog 
-Create a list of all task required to complete to meet the specifications above. (User Stories) Estimate and allocate the time required for each task. Record this in theformat of your choice and include with your documentation, possible templates to use will be discussed in class. If you are unable to estimate the time of each task, break the task down further. 
+Based on the second high fidelity wireframe is how the website is going to look through all the pages holding that same type of theme. 
 
 ***
 
 ## Progess Log 
-Work through your product backlog, noting any major issues as you go. Use a format of your choice to record this. 
+Work through your product backlog, noting any major issues as you go. Use a format of your choice to record this.
+Element | Issues | What does it do? | Works | Done 
+--- | --- | --- | --- | ---
+Background image | Was changing sizes when backgorund size was set to cover. | Covers part of the background seperating the different colours | Works | Done 
+Image Sizes | Different Image resolutions | Advertise the different products of the website | Works | Done
+Contact Form | No issues | Able to input information in email format to contact the company | Works | Done
+Image Links | No issues | Click some images and get taken to different pages | Works | Done 
+Navigation Links | No issues | Click on the navigation bar that takes the user to the different pages of the website | Works | Done
+Website Responsiveness | Doesn't quite look correct in very small size | Allows the website layout to fit to both smaller and larger screen sizes | Works | Done
 
-## Testing 
-Create and carry out a basic test plan for your site. You are advised to test as you go and keep a record of this.
+***
 
-### Testing Table 
+## Testing Table 
 Test | Scenario | Expected Result | Actual Result | Pass/Fail
 --- | --- | ---| --- | --- 
 1 | Linked banner works from all pages | Sends user to home page when clicked | Sends user to home page | Pass
 2 | Navigation buttons work | Buttons linked and send user to right pages | Sends user to correct pages as intended | Pass
-3 | When linked image is clicked, sends user to correct page | When clicked sends user to correct page | Sends user to right page | Pass
+3 | Linked Images work | When clicked sends user to correct page | Sends user to right page | Pass
 4 | User able to find contact information | Use navigation bar or linked home page images to find contact us page | Contact Us information found | Pass 
 5 | All images load correctly | Images load at good quality | Images are clear and load correctly | Pass 
 6 | Find about us information | Using navigation or home page links to find about us information | About Us information found | Pass
+7 | Layout is easy to read | Content is easy to read and navigate | Content is easy to read and navigate | Pass
+8 | Test Responsiveness | Website is responsive to different size windows | Goes smaller or bigger with window size | Pass
+9 | Google Maps Embedded | Goodle Maps embedded map works | Google Map shows correct location and street view | Pass 
 
 
